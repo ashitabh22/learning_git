@@ -1,3 +1,3 @@
 # learning_git
 
-Jack is stupid
+Jack is stupid ad dumb

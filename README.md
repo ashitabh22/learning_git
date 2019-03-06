@@ -1,3 +1,3 @@
 # learning_git
-
-learning git 
+ 
+ written by bob

@@ -1,3 +1,3 @@
 # learning_git
 
-learning git 
+Jack is stupid

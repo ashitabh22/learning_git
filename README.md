@@ -1,3 +1,3 @@
-# learning_git
+# DEVOPS
 
 Jack is stupid ad dumb
